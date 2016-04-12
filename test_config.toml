@@ -1,0 +1,6 @@
+# Test configuration file
+
+[mock_section]
+address = "localhost:3000"
+num_samples = 20
+
